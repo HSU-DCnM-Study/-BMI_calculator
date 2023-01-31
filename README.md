@@ -19,6 +19,7 @@
 - lambda function 사용
 
 ### Android
+- viewBinding
 - LinearLayout
 - TextView
 - EditText
